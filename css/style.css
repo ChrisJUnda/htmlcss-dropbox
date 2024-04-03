@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 header{
     padding: 15px 0px;
     background-color: silver;
@@ -42,6 +45,28 @@ header{
 }
 .col-20{
     width: 20%;
+}
+
+.flex-start{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flex-start li{
+    display: inline-block;
+    margin: 10px 0px 0px 20px;
+    list-style-type: none;
+}
+
+.flex-end{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.flex-end li{
+    display: inline-block;
+    margin: 10px 10px 0px 20px;
+    list-style-type: none;
 }
 
 .content-header{
@@ -123,4 +148,10 @@ header{
     display: flex;
     flex-direction: row;
 
+}
+
+.evidenziato{
+    padding: 3px 12px;
+    background-color: rgb(17, 151, 196);
+    color: white;
 }
