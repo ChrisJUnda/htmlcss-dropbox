@@ -108,12 +108,33 @@ header{
     height: 50%;
     border: 1px solid black;
 }
+.margin-top-10{
+    margin-top: 10px;
+}
+.margin-top-20{
+    margin-top: 20px;
+}
+
+.margin-top-50{
+    margin-top: 50px;
+}
+ 
 .margin-top-75{
     margin-top: 75px;
+}
+.margin-bottom-10{
+    margin-bottom: 10px;
 }
 
 .margin-bottom-75{
     margin-bottom: 75px;
+}
+
+.margin-left-40{
+    margin-left: 40px;
+}
+.margin-left-20{
+    margin-left: 20px;
 }
 
 .padding-top-50{
@@ -151,6 +172,14 @@ header{
 
 }
 
+.list-style-none li{
+    list-style-type: none;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
 .evidenziato{
     padding: 3px 12px;
     background-color: rgb(17, 151, 196);
@@ -165,6 +194,10 @@ header{
     margin-left: 20px;
 
 }
+
+.title2{
+    margin-left: 40px;
+}
 .paragraph{
     margin-top: 50px;
     margin-left: 20px;
@@ -177,13 +210,22 @@ header{
     margin-top: 20px;
     display: inline-block;
     margin-left: 20px;
-    
+}
 
+.box{
+    padding: 10px 40px;
+    background-color: rgb(17, 151, 196) ;
 }
 
 .annulla{
     margin-top: 20px;
     margin-left: 20px;
     list-style-type: none;
+}
+
+
+
+.center{
+    text-align: center;
 }
 
