@@ -118,7 +118,7 @@ header{
 .margin-top-50{
     margin-top: 50px;
 }
- 
+
 .margin-top-75{
     margin-top: 75px;
 }
@@ -130,12 +130,16 @@ header{
     margin-bottom: 75px;
 }
 
-.margin-left-40{
-    margin-left: 40px;
-}
+
 .margin-left-20{
     margin-left: 20px;
 }
+
+.margin-left-40{
+    margin-left: 40px;
+}
+
+
 
 .padding-top-50{
     padding-top: 50px;
@@ -221,6 +225,11 @@ header{
     margin-top: 20px;
     margin-left: 20px;
     list-style-type: none;
+}
+
+.partner{
+    width: 100%;
+    height: 100%;
 }
 
 
