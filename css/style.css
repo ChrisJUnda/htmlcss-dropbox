@@ -80,6 +80,7 @@ header{
     background-color: gold;
     margin: 10px;
 }
+
 /*Background color*/
 .bg-lightskyblue{
     background-color: lightskyblue;
@@ -155,3 +156,34 @@ header{
     background-color: rgb(17, 151, 196);
     color: white;
 }
+
+.jumbo{
+    width: 100%;
+}
+
+.title{
+    margin-left: 20px;
+
+}
+.paragraph{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.gratis{
+    padding: 10px 12px;
+    background-color: rgb(17, 151, 196);
+    color: white;
+    margin-top: 20px;
+    display: inline-block;
+    margin-left: 20px;
+    
+
+}
+
+.annulla{
+    margin-top: 20px;
+    margin-left: 20px;
+    list-style-type: none;
+}
+
