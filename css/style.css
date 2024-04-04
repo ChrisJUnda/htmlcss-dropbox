@@ -9,7 +9,7 @@ body{
 }
 header{
     padding: 15px 0px;
-    background-color: silver;
+
 }
 
 footer{
@@ -82,13 +82,11 @@ footer{
 
 .content-header{
     height: 50px;
-    border: 1px solid black;
-    background-color: blue;
+
 }
 
 .content{
-    border: 1px solid black;
-    background-color: gold;
+
     margin: 10px;
 }
 
@@ -142,13 +140,11 @@ footer{
 .square{
     width: calc(100% / 3);
     height: calc(100vw / 3);
-    background-color: silver;
 }
 
 .small-square{
     width: 50%;
     height: 50%;
-    border: 1px solid black;
 }
 
 .margin-top-5{
@@ -179,6 +175,9 @@ footer{
     margin-bottom: 75px;
 }
 
+.margin-left-40{
+    margin-left: 40px;
+}
 
 .margin-left-20{
     margin-left: 20px;
@@ -338,5 +337,6 @@ footer{
 }
 
 .border{
-    border: 1px solid black;
+    border: 1px solid grey;
 }
+
